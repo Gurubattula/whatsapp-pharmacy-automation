@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+python-dotenv
+google-generativeai
+thefuzz
+python-Levenshtein
+httpx
+pytest
+requests
